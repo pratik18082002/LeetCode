@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
