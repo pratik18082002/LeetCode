@@ -14,9 +14,7 @@ public:
                     if(unitsPlace!=0) ans+=" "+digits[unitsPlace];
                 }
             }
-            else{
-                if(unitsPlace!=0) ans+=" "+digits[unitsPlace];
-            }
+            else if(unitsPlace!=0) ans+=" "+digits[unitsPlace];
         }
         else{
             if(tensPlace!=0){
