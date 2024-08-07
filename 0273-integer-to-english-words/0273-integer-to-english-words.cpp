@@ -24,9 +24,7 @@ public:
                     if(unitsPlace!=0) ans+=" "+digits[unitsPlace];
                 }
             }
-            else{
-                if(unitsPlace!=0) ans+=digits[unitsPlace];
-            }
+            else if(unitsPlace!=0) ans+=digits[unitsPlace];
         }
         return ans;
     }
@@ -36,12 +34,8 @@ public:
         string ans="";
         vector<string> measurement={"Thousand","Million","Billion"};
         for(int i=0;i<4&&num!=0;i++){
-            int unitsPlace=num%10;
-            num/=10;
-            int tensPlace=num%10;
-            num/=10;
-            int hundredsPlace=num%10;
-            num/=10;
+            int unitsPlace=num%10,tensPlace=(num%100)/10,hundredsPlace=(num%1000)/100;
+            num/=1000;
             cout<<unitsPlace<<" "<<tensPlace<<" "<<hundredsPlace;
             string temp=numberToWord(unitsPlace,tensPlace,hundredsPlace);
             if(temp=="") continue;
