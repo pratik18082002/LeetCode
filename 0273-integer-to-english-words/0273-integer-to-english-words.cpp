@@ -36,7 +36,6 @@ public:
         for(int i=0;i<4&&num!=0;i++){
             int unitsPlace=num%10,tensPlace=(num%100)/10,hundredsPlace=(num%1000)/100;
             num/=1000;
-            cout<<unitsPlace<<" "<<tensPlace<<" "<<hundredsPlace;
             string temp=numberToWord(unitsPlace,tensPlace,hundredsPlace);
             if(temp=="") continue;
             if(i==0) ans=temp;
