@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string numberToWord(int unitsPlace, int tensPlace, int hundredsPlace){
+    string numToWord(int unitsPlace, int tensPlace, int hundredsPlace){
         string ans="";
         vector<string> digits={"Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine"};
         vector<string> teen={"Ten","Eleven","Twelve","Thirteen","Fourteen","Fifteen","Sixteen","Seventeen","Eighteen","Nineteen"};
@@ -36,7 +36,7 @@ public:
         for(int i=0;i<4&&num!=0;i++){
             int unitsPlace=num%10,tensPlace=(num%100)/10,hundredsPlace=(num%1000)/100;
             num/=1000;
-            string temp=numberToWord(unitsPlace,tensPlace,hundredsPlace);
+            string temp=numToWord(unitsPlace,tensPlace,hundredsPlace);
             if(temp=="") continue;
             if(i==0) ans=temp;
             else{
