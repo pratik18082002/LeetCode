@@ -5,10 +5,9 @@ public:
         long long power=1;
         while(num){
             if((num&1)==0) ans+=power;
-            else cout<<"no\n";
-            num/=2;
             cout<<num<<endl;
-            power*=2;
+            num=num>>1;
+            power=power<<1;
         }
         return ans;
     }
