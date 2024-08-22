@@ -123,4 +123,8 @@
 | ------- |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/pratik18082002/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
