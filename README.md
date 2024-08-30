@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/pratik18082002/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2803-modify-graph-edge-weights](https://github.com/pratik18082002/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Binary Tree
 |  |
 | ------- |
@@ -134,4 +135,9 @@
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratik18082002/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/pratik18082002/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/pratik18082002/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
