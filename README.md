@@ -22,6 +22,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/pratik18082002/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratik18082002/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/pratik18082002/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -66,6 +68,7 @@
 ## Counting
 |  |
 | ------- |
+| [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
