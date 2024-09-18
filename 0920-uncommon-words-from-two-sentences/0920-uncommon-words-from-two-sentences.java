@@ -17,16 +17,8 @@ class Solution {
         ArrayList<String> ans=new ArrayList<>();
         s1+=" "+s2;
         String temp="";
-        for(int i=0;i<s1.length();i++){
-            if(s1.charAt(i)==' '){
-                if(mp.containsKey(temp)) mp.put(temp,mp.get(temp)+1);
-                else mp.put(temp,1);
-                temp="";
-            }
-            else temp+=s1.charAt(i);
-        }
-        if(mp.containsKey(temp)) mp.put(temp,mp.get(temp)+1);
-        else mp.put(temp,1); 
+        String[] s=s1.split(" ");
+        for(String w:s) mp.put(w,mp.getOrDefault(w,0)+1);
         for(Map.Entry<String,Integer> e:mp.entrySet()) if(e.getValue()==1) ans.add(e.getKey());
         String[] a=new String[ans.size()];
         a=ans.toArray(a);
