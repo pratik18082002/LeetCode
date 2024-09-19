@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/pratik18082002/LeetCode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -78,11 +79,13 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/pratik18082002/LeetCode/tree/master/0870-magic-squares-in-grid) |
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -141,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Bit Manipulation
@@ -163,4 +167,8 @@
 | ------- |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pratik18082002/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
