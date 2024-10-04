@@ -22,6 +22,7 @@
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratik18082002/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pratik18082002/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratik18082002/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -56,6 +57,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratik18082002/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratik18082002/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -67,12 +69,14 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pratik18082002/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratik18082002/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pratik18082002/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
