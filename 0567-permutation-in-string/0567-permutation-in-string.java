@@ -6,12 +6,6 @@ class Solution {
         for(int i=0;i<s1.length();i++) frqS1[s1.charAt(i)-'a']++;
         for(int i=0;i<s1.length();i++) frqS2[s2.charAt(i)-'a']++;
         for(int i=s1.length();i<s2.length();i++){
-            if(i==5){
-                for(int j=0;j<26;j++){
-                    System.out.print(frqS1[j]+" ");
-                    System.out.println(frqS2[j]);
-                }
-            }
             if(Arrays.equals(frqS1,frqS2)) return true;
             frqS2[s2.charAt(i-s1.length())-'a']--;
             frqS2[s2.charAt(i)-'a']++;
