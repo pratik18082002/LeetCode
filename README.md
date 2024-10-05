@@ -34,6 +34,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/pratik18082002/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/pratik18082002/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/pratik18082002/LeetCode/tree/master/0567-permutation-in-string) |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -46,10 +47,12 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pratik18082002/LeetCode/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratik18082002/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pratik18082002/LeetCode/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/pratik18082002/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/pratik18082002/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/pratik18082002/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -74,6 +77,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/pratik18082002/LeetCode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/pratik18082002/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
