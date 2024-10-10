@@ -15,6 +15,7 @@
 | [0870-magic-squares-in-grid](https://github.com/pratik18082002/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pratik18082002/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pratik18082002/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/pratik18082002/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratik18082002/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -256,6 +257,11 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/pratik18082002/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/pratik18082002/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/pratik18082002/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/pratik18082002/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/pratik18082002/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
