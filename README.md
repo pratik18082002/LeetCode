@@ -24,6 +24,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pratik18082002/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pratik18082002/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pratik18082002/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratik18082002/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pratik18082002/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pratik18082002/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/pratik18082002/LeetCode/tree/master/0040-combination-sum-ii) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pratik18082002/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0476-number-complement](https://github.com/pratik18082002/LeetCode/tree/master/0476-number-complement) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/pratik18082002/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pratik18082002/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Graph
 |  |
 | ------- |
@@ -290,4 +293,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/pratik18082002/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pratik18082002/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
