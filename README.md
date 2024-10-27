@@ -17,6 +17,7 @@
 | [0921-spiral-matrix-iii](https://github.com/pratik18082002/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pratik18082002/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/pratik18082002/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/pratik18082002/LeetCode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratik18082002/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -158,6 +159,7 @@
 | [0870-magic-squares-in-grid](https://github.com/pratik18082002/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/pratik18082002/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pratik18082002/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/pratik18082002/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
