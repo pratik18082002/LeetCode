@@ -34,6 +34,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pratik18082002/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/pratik18082002/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratik18082002/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -160,6 +161,7 @@
 | [0921-spiral-matrix-iii](https://github.com/pratik18082002/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/pratik18082002/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/pratik18082002/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/pratik18082002/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
