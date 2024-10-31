@@ -33,6 +33,7 @@
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pratik18082002/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/pratik18082002/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pratik18082002/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -85,6 +86,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/pratik18082002/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/pratik18082002/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/pratik18082002/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/pratik18082002/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -100,6 +102,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pratik18082002/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/pratik18082002/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
@@ -121,6 +124,7 @@
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pratik18082002/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/pratik18082002/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2586-longest-square-streak-in-an-array](https://github.com/pratik18082002/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -236,6 +240,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/pratik18082002/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
+| [2586-longest-square-streak-in-an-array](https://github.com/pratik18082002/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pratik18082002/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
