@@ -30,6 +30,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/pratik18082002/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pratik18082002/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/pratik18082002/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/pratik18082002/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/pratik18082002/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -96,6 +97,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/pratik18082002/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/pratik18082002/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/pratik18082002/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/pratik18082002/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/pratik18082002/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -229,6 +231,7 @@
 | [0664-strange-printer](https://github.com/pratik18082002/LeetCode/tree/master/0664-strange-printer) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pratik18082002/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/pratik18082002/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2554-minimum-total-distance-traveled](https://github.com/pratik18082002/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2755-extra-characters-in-a-string](https://github.com/pratik18082002/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/pratik18082002/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Bit Manipulation
