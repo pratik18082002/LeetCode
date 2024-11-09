@@ -259,6 +259,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/pratik18082002/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/pratik18082002/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/pratik18082002/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3394-minimum-array-end](https://github.com/pratik18082002/LeetCode/tree/master/3394-minimum-array-end) |
 ## Graph
 |  |
 | ------- |
